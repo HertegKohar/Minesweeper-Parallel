@@ -1,0 +1,8 @@
+*.zip
+*.exe
+*.py
+*.out
+*.txt
+*.pdf
+*.exe.stackdump
+*.vscode
